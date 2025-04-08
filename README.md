@@ -59,8 +59,6 @@ Esse tutorial inclui:
 - Estrutura do código e como rodar localmente
 - Função especial "Tente a Sorte"
 
-> 📎 [Clique aqui para baixar o tutorial em Word (DOCX)](sandbox:/mnt/data/Tutorial_Sprint_React_BuscaLivros.docx)
-
 
 ---
 
