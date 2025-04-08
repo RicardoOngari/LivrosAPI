@@ -1,0 +1,24 @@
+.livro-card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 250px;
+    text-align: center;
+    height: auto;
+  }
+  
+  .livro-card img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  .livro-card h3 {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .livro-card p {
+    color: #555;
+  }
+  
